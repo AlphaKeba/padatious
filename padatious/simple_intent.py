@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-from fann2 import libfann as fann
+# from fann2 import libfann as fann
 
 from padatious.id_manager import IdManager
 from padatious.util import resolve_conflicts, StrEnum
